@@ -84,7 +84,7 @@ project/
 Coche une case seulement après avoir exécuté le projet et vérifié les
 critères de réussite.
 
--   [ ] 01 --- Ma première carte produit
+-   [x] 01 --- Ma première carte produit
 -   [ ] 02 --- Trois façons de viser un élément
 -   [ ] 03 --- Badge de stock
 -   [ ] 04 --- Calculateur de prix TTC
