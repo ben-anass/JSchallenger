@@ -1,18 +1,69 @@
-console.log('JS connecté')
+console.log("JS connect")
 
-const nom = 'Clavier '
-let prix = 250 
+const Nom = "clave"
+let Prix = 300 
 
-const elementNom =document.getElementById('nom')
-const elementPrix = document.getElementById('prix')
+const elementNom = document.getElementById ("Nom")
+const elementPrix = document.getElementById ("Prix")
 
-elementNom.textContent = nom 
-elementPrix.textContenet = prix + " Dh"
+elementNom.textContent = Nom 
+elementPrix.textContent = Prix + "Dh"
 
-prix = 199 
-elementPrix.textContent  = prix + " dh"
+Prix = 299
 
-nom = 'Souris' 
+elementPrix.textContent = Prix + "Dh"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// console.log('js conecte')
+
+// const nom = 'Clavier '
+// let prix = 250 
+
+// const elementNom =document.getElementById('Nom')
+// const elementPrix = document.getElementById('Prix')
+
+// elementNom.textContent = nom + "test"
+// elementPrix.textContenet = prix + " Dh"
+
+// prix = 199 
+
+// elementPrix.textContent  = prix + " dh"
+
+// nom = 'Souris' 
 
 
 
