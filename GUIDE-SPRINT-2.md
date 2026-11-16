@@ -85,9 +85,9 @@ Coche une case seulement après avoir exécuté le projet et vérifié les
 critères de réussite.
 
 -   [x] 01 --- Ma première carte produit
--   [ ] 02 --- Trois façons de viser un élément
--   [ ] 03 --- Badge de stock
--   [ ] 04 --- Calculateur de prix TTC
+-   [x] 02 --- Trois façons de viser un élément
+-   [x] 03 --- Badge de stock
+-   [x] 04 --- Calculateur de prix TTC
 -   [ ] 05 --- Compteur de clics
 -   [ ] 06 --- Ajouter une note
 -   [ ] 07 --- Liste de courses depuis un tableau
@@ -132,10 +132,10 @@ La page contient un `<h1 id="nom">` et un `<p id="prix">`. Le script
 
 ### Réussite
 
--   [ ] Le message « JS connecté » apparaît dans la console.
--   [ ] La page affiche « Clavier » et « 199 DH ».
--   [ ] `nom` est déclaré avec `const` et `prix` avec `let`.
--   [ ] Tu peux expliquer pourquoi réassigner `nom` provoque une erreur.
+-   [x] Le message « JS connecté » apparaît dans la console.
+-   [x] La page affiche « Clavier » et « 199 DH ».
+-   [x] `nom` est déclaré avec `const` et `prix` avec `let`.
+-   [x] Tu peux expliquer pourquoi réassigner `nom` provoque une erreur.
 
 ------------------------------------------------------------------------
 
@@ -161,12 +161,12 @@ Un `<h1 id="titre">`, un `<p class="intro">` et un `<footer>`.
 
 ### Réussite
 
--   [ ] Les trois éléments affichent un texte.
--   [ ] Les sélecteurs `#`, `.` et le nom de balise sont utilisés avec
+-   [x] Les trois éléments affichent un texte.
+-   [x] Les sélecteurs `#`, `.` et le nom de balise sont utilisés avec
     `querySelector`.
--   [ ] Tu peux expliquer pourquoi `querySelector('intro')` renvoie
+-   [x] Tu peux expliquer pourquoi `querySelector('intro')` renvoie
     `null`.
--   [ ] Tu sais dire quand `getElementById` suffit.
+-   [x] Tu sais dire quand `getElementById` suffit.
 
 ------------------------------------------------------------------------
 
@@ -195,11 +195,11 @@ Un élément `span` avec `id="badge"` et les classes Tailwind nécessaires
 
 ### Réussite
 
--   [ ] Les cas 0, 2 et 5 affichent respectivement « Rupture », «
+-   [x] Les cas 0, 2 et 5 affichent respectivement « Rupture », «
     Presque épuisé » et « Disponible ».
--   [ ] L'opérateur ternaire est utilisé pour le choix du texte.
--   [ ] Les classes sont gérées avec `classList`.
--   [ ] Les conditions sont dans le bon ordre.
+-   [x] L'opérateur ternaire est utilisé pour le choix du texte.
+-   [x] Les classes sont gérées avec `classList`.
+-   [x] Les conditions sont dans le bon ordre.
 
 ------------------------------------------------------------------------
 
@@ -224,10 +224,10 @@ Un élément `span` avec `id="badge"` et les classes Tailwind nécessaires
 
 ### Réussite
 
--   [ ] La fonction calcule correctement la TVA de 20 %.
--   [ ] Les trois prix sont affichés.
--   [ ] La fonction fléchée fonctionne.
--   [ ] Tu peux expliquer le rôle de `return` et le résultat
+-   [x] La fonction calcule correctement la TVA de 20 %.
+-   [x] Les trois prix sont affichés.
+-   [x] La fonction fléchée fonctionne.
+-   [x] Tu peux expliquer le rôle de `return` et le résultat
     `undefined`.
 
 ------------------------------------------------------------------------
