@@ -13,5 +13,3 @@ afficherprix('#p3' , 45)
 
 
 
-
-
